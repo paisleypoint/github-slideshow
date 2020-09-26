@@ -2,5 +2,5 @@
 layout: Slide
 title: "Welcome to our second slide!"
 ---
-your test
+yer mom
 ues the left arrow to go back!
